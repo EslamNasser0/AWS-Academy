@@ -66,3 +66,6 @@ user can **Read-Only** access to Amazon **EC2**
 user can **View, Start and Stop** Amazon **EC2** instances
 ![s3](./assets/lab1.12.png)
 ![s3](./assets/lab1.13.png)
+
+## Lab 1: Final product
+![Final product](./assets/Lab1-Final-product.png)
