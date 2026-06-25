@@ -6,9 +6,9 @@ A collection of hands-on lab documentation and walkthroughs for core AWS cloud c
 
 Cloud Foundations is designed to introduce learners to the core concepts of cloud computing and the essential services offered by AWS. This course provides a strong foundational understanding of cloud architecture, security, storage, networking, databases, and pricing models, while also preparing students for future technical and professional opportunities in cloud technology
 
-- [ ] Lab - 1 Introduction to AWS IAM
+- [x] Lab - 1 Introduction to AWS IAM
 - [ ] Lab - 2 Build your VPC and Launch a Web Server
-- [ ] Lab - 3 Introduction to Amazon EC2
+- [x] Lab - 3 Introduction to Amazon EC2
 - [ ] Lab - 4 Working with EBS
 - [ ] Lab - 5 Build a Database Server
 - [ ] Lab - 6 Scale & Load Balance your Architecture
