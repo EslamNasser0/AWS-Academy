@@ -142,7 +142,9 @@ When you stop an instance, it is shut down. There is no runtime charge for a sto
 21. On the **EC2 Management Console**, in the left navigation pane, choose **Instances** and then select the **Web Server** instance.
 
 22. In the Instance state  menu, select **Stop instance**.
+    
     ![Stop instance](assets/lab3.18.jpeg)
+    
     ![Stop instance](assets/lab3.19.jpeg)
 
 23. Wait for the **Instance state** to display: _Stopped_.
@@ -184,9 +186,8 @@ You will now start the instance again, which will now have more memory and more 
 32. Select the **Web Server** instance.
 33. In the Instance state menu, select **Start instance**.
 
-        **Congratulations!** You have successfully resized your Amazon EC2 Instance. In this task you changed your instance type from _t2.micro_ to _t2.small_. You also modified your root disk volume from 8 GiB to 10 GiB.
-
     ![Start the Resized Instance](assets/lab3.29.jpeg)
+
     ![Start the Resized Instance](assets/lab3.30.jpeg)
 
 ## Task 5: Explore EC2 Limits
